@@ -1,0 +1,3 @@
+# Pandas-profiling_Report
+pandas-profiling primary goal is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. Like pandas df.describe() function, that is so handy, pandas-profiling delivers an extended analysis of a DataFrame while alllowing the data analysis to be exported in different formats such as html
+Pandas profiling is a powerful Python library for data analysis and exploration. It provides a comprehensive report of a dataset, allowing you to quickly understand the structure and properties of your data. The report includes a summary of the data, missing values, and a distribution of variables
